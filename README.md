@@ -1,5 +1,9 @@
 # Glissando
 
+This was my project for the Fall 2015 HopHacks hackathon at Johns Hopkins University. As such the code's a little messy.
+
+Devpost link: http://devpost.com/software/glissando
+
 ## Inspiration
 
 A while ago I read a paper about a team of researchers in Germany who used machine learning to automatically paint a scene in the style of a famous artist. It immediately got me thinking if it was possible to do the same thing with music.
