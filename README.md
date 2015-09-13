@@ -1,12 +1,12 @@
 # Glissando
 
-This was my project for the Fall 2015 HopHacks hackathon at Johns Hopkins University. As such the code's a little messy. Usage is fairly straightforward - just run the Python scrpit and it it will produce the output file in MIDI format.
+This was my project for the Fall 2015 HopHacks hackathon at Johns Hopkins University. Usage is fairly straightforward - just run the Python scrpit and it it will produce the output file in MIDI format.
 
 Devpost link: http://devpost.com/software/glissando
 
 ## Inspiration
 
-A while ago I read a paper about a team of researchers in Germany who used machine learning to automatically paint a scene in the style of a famous artist. It immediately got me thinking if it was possible to do the same thing with music.
+A while ago I read [a paper](http://arxiv.org/pdf/1508.06576v2.pdf) by a team of researchers in Germany who used machine learning to automatically paint a scene in the style of a famous artist. It immediately got me thinking if it was possible to do the same thing with music.
 
 ## What it does
 
