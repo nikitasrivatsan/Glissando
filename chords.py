@@ -300,7 +300,7 @@ def main():
     # write output to MIDI file
     print "Writing output to MIDI file"
     outfile = midi.translate.streamToMidiFile(s)
-    outfile.open("/home/asrivat1/public_html/output.mid", 'wb')
+    outfile.open("output.mid", 'wb')
     outfile.write()
     outfile.close()
     print "Done writing file"
