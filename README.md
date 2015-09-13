@@ -1,6 +1,6 @@
 # Glissando
 
-This was my project for the Fall 2015 HopHacks hackathon at Johns Hopkins University. As such the code's a little messy.
+This was my project for the Fall 2015 HopHacks hackathon at Johns Hopkins University. As such the code's a little messy. Usage is fairly straightforward - just run the Python scrpit and it it will produce the output file in MIDI format.
 
 Devpost link: http://devpost.com/software/glissando
 
